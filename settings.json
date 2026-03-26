@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "omen.aternos.me:18542",
-    "port": 18542,
+    "ip": "omen.aternos.me", 
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
